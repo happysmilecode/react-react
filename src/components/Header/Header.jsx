@@ -39,7 +39,7 @@ const Header = () => {
       ></div>
 
       <a href="../../App" className="logo">
-        <span>Gregory Harris</span>
+        <span>Tech Samurai</span>
       </a>
 
       <nav className="navbar">
