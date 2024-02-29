@@ -21,11 +21,11 @@ const About = () => (
         <h4>
           <FormattedMessage
             id="descriptions"
-            defaultMessage="My name is Tech Samurai and I am a full stack developer."
+            defaultMessage="This is Tech Samurai"
           />
         </h4>
         <p>
-          Over the past 7 years, I have worked as a Full Stack developer in the
+          Over the past 9 years, I have worked as a Full Stack developer in the
           field of Web/Mobile Application development.
         </p>
         <p>

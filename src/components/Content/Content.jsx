@@ -14,7 +14,7 @@ const Content = () => (
     <section className="inicio" id="inicio">
       <div className="titulo">
         <h1 data-aos="fade-up" data-aos-delay="500">
-          <FormattedMessage id="namess" defaultMessage="Web & Mobile Development | Web & App Design" />
+          <FormattedMessage id="namess" defaultMessage="Web & Mobile App Development | AI/ML | Blockchain" />
         </h1>
         <p className="h_intro">My mission is to continually improve each subsequent project, surpassing the quality of the previous one. This commitment has resulted in a remarkable 70% repeat hire rate, and I have had the privilege of working with certain clients for over a decade. This is more than just a job to me; it is my life's passion.</p>
 

@@ -84,21 +84,6 @@ const Services = () => {
                 />
               </p>
             </div>
-            <div className="columns" data-aos="fade-up" data-aos-delay="500">
-              <i className="fas fa-mobile"></i>
-              <h3>
-                <FormattedMessage
-                  id="maintenance"
-                  defaultMessage="APP DEVELOPMENT"
-                />
-              </h3>
-              <p>
-                <FormattedMessage
-                  id="maintenance-info"
-                  defaultMessage="Transform your ideas into innovative mobile applications. Our app development services deliver intuitive and feature-rich solutions across platforms, engaging users and driving business growth."
-                />
-              </p>
-            </div>
             <div className="columns" data-aos="fade-up" data-aos-delay="600">
               <i className="fa fa-search"></i>
               <h3>
@@ -110,21 +95,6 @@ const Services = () => {
               <p>
                 <FormattedMessage
                   id="seo-infodf"
-                  defaultMessage="Safeguard your online assets with our robust web security services. We offer comprehensive solutions to identify vulnerabilities, protect against cyber threats, and ensure data privacy. Trust us to fortify your digital presence and provide peace of mind."
-                />
-              </p>
-            </div>
-            <div className="columns" data-aos="fade-up" data-aos-delay="600">
-              <i className="fa fa-thumbs-up"></i>
-              <h3>
-                <FormattedMessage
-                  id="seod"
-                  defaultMessage="SECURITY"
-                />
-              </h3>
-              <p>
-                <FormattedMessage
-                  id="seo-infodd"
                   defaultMessage="Safeguard your online assets with our robust web security services. We offer comprehensive solutions to identify vulnerabilities, protect against cyber threats, and ensure data privacy. Trust us to fortify your digital presence and provide peace of mind."
                 />
               </p>
